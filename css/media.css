@@ -1,0 +1,227 @@
+@media only screen and (max-width: 992px) {
+.new {
+	width:750px;
+	}
+.menu-item {
+	margin-top: 50px;
+	}
+.portfolio {
+    font-size: 15px;
+    margin-right: 100px;
+	}
+.info {
+    font-size: 13px;
+    text-transform: lowercase;
+    font-family: 'MuseoSans';
+    margin-left: 0px;
+    float: right;
+    font-weight: 100;
+    font-style: normal;
+    border-bottom: 1px solid #888886;
+}
+.content__left {
+  height:600px;
+  margin-bottom: 5px;
+  width: 50%;
+  float: left;
+}
+.content__right1 {
+    width: 30%;
+    float: right;
+}
+.content__left_text {
+  width: 90%;
+}
+.content__right_squares {
+    float: right;
+    width: 50%;
+    height: 155px;
+    padding-left: -20px;
+    margin-right: 40px;
+}
+.content__right1_rhombus {
+    height: 150px;
+    margin-left: 20px;
+}
+
+.clearfix:after {
+    content:'';
+    display: table;
+    width: 50%;
+    clear: both;
+}
+.text-merits {
+    margin: -20px 0 20 -30px;
+    color: #22241B;
+    font-size: 12px;
+    font-family: 'MuseoSans';
+    font-weight: 300;
+    font-style: normal;
+	}
+.footer {
+	height:50px;
+	}
+}
+@media only screen and (max-width: 768px) {
+.new {
+	width:450px;
+	}
+.header {
+	height: 600px;
+	}
+.menu-item {
+	margin-top: 40px;
+	}
+.portfolio {
+   	font-size: 15px;
+    margin-right: 100px;
+	}
+.info {
+    font-size: 13px;
+    text-transform: lowercase;
+    font-family: 'MuseoSans';
+    margin-left: 0px;
+    float: right;
+    font-weight: 100;
+    font-style: normal;
+    border-bottom: 1px solid #888886;
+	}
+.knopka {
+	display: block;
+	}
+.title1 {
+	font-size: 35px;
+    top: 42%;
+    left: 50%;
+    margin-left: -228px;
+    text-align: center;
+    font-family: 'Natasha';
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    position: absolute;
+	}
+.text0 {
+	font-size: 20px;
+    font-family: 'MuseoSans';
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-style: normal;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    margin-left: -132px;
+	}
+.works1 {
+	display: none;
+	}
+.footer {
+	height :40px;
+	}
+}
+@media only screen and (max-width: 480px) {
+.new {
+	width: 320px;
+	}
+.header {
+	height: 400px;
+	}
+.menu-item {
+	margin-top: 30px;
+	}
+.portfolio {
+	display: none;
+	}
+.title1 {
+	font-size: 30px;
+    top: 42%;
+    left: 50%;
+    margin-left: -200px;
+    text-align: center;
+    font-family: 'Natasha';
+    letter-spacing: 2px;
+    margin-bottom: 0;
+    position: absolute;
+	}
+.text0 {
+	font-size: 15px;
+    font-family: 'MuseoSans';
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-style: normal;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    margin-left: -90px;
+	}
+.knopka {
+	display: block;
+	float: left;
+	top: 30px;
+	left: 5%;
+	margin-left: -14px;
+	border-radius: 2px;
+	}
+.works1 {
+	display: none;
+	}
+.footer {
+	height :20px;
+	}
+}
+@media only screen and (max-width: 420px) {
+.new {
+	width: 280px;
+	}
+.header {
+	height: 350px;
+	}
+.menu-item {
+	margin-top: 30px;
+	}
+.portfolio {
+	display: none;
+	}
+.info {
+	display: none;
+	}
+.knopka {
+	display: block;
+	}
+.works1 {
+	display: none;
+	}
+.footer {
+	height :20px;
+	}
+.title1 {
+	font-size: 25px;
+    top: 42%;
+    left: 50%;
+    margin-left: -160px;
+    text-align: center;
+    font-family: 'Natasha';
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    position: absolute;
+	}
+.text0 {
+	font-size: 12px;
+    font-family: 'MuseoSans';
+    letter-spacing: 1px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-style: normal;
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    margin-left: -60px;
+	}
+}
